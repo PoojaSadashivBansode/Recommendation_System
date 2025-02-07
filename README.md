@@ -10,10 +10,10 @@
 This project implements a Recommendation System to suggest relevant items (such as movies, products, or content) based on user preferences, past interactions, or item similarities. The system is designed using machine learning and data processing techniques to improve user engagement and experience.
 
 ## Features
-✅ User-Based and Item-Based Recommendations – Provides suggestions based on user behavior or item attributes.
-✅ Collaborative and Content-Based Filtering – Uses historical data to find patterns and predict preferences.
-✅ Data Preprocessing & Feature Engineering – Handles missing values, normalizes data, and extracts useful features.
-✅ Model Evaluation & Performance Metrics – Assesses recommendation accuracy using suitable evaluation metrics.
+User-Based and Item-Based Recommendations – Provides suggestions based on user behavior or item attributes.
+Collaborative and Content-Based Filtering – Uses historical data to find patterns and predict preferences.
+Data Preprocessing & Feature Engineering – Handles missing values, normalizes data, and extracts useful features.
+Model Evaluation & Performance Metrics – Assesses recommendation accuracy using suitable evaluation metrics.
 
 ## How It Works -
 1. Data Collection – Load and preprocess dataset.
